@@ -1,0 +1,15 @@
+fastapi
+
+uvicorn
+
+aiohttp
+
+
+sqlalchemy
+
+
+alembic
+
+pydantic
+
+asyncpg
