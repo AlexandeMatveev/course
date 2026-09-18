@@ -13,3 +13,7 @@ alembic
 pydantic
 
 asyncpg
+
+pyjwt
+passlib
+bcrypt
